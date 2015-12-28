@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "JAYANTA DEVNATH, web-developer"
 date:   2015-12-28 20:41:45 +0530
 categories: jekyll update
 ---
